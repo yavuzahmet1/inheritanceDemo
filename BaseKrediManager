@@ -1,0 +1,6 @@
+public class BaseKrediManager {
+    public void hesapla(){
+        System.out.println("Kredi hesaplandı!!");
+    }
+}
+//bir class sadece bir class'ı sace birkez inherit edebilir.
